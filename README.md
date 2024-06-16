@@ -8,14 +8,11 @@ You can find me on <a href="https://www.linkedin.com/in/kartheekpuchakayala/"><i
 
 ## 📈 GitHub Stat's
 
-[![wakatime](https://wakatime.com/badge/user/e7083d89-84d4-4c69-96bc-e43e98d38d80.svg)](https://wakatime.com/@e7083d89-84d4-4c69-96bc-e43e98d38d80)
-
-
 <a href="">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChegeBryan&layout=compact&heigt=&theme=algolia">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartheekPuchakayala&layout=compact&heigt=&theme=algolia">
 </a>
 <a href="">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChegeBryan&count_private=true&show_icons=true&theme=algolia">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KartheekPuchakayala&count_private=true&show_icons=true&theme=algolia">
 </a>
 
 ## 🛠 Technology & Tools
